@@ -7,7 +7,7 @@ Accurately predicting CLV allows organizations to prioritize high-value customer
 
 By leveraging machine learning (ML), businesses can identify hidden patterns in purchase behavior, demographics, and engagement metrics to forecast CLV with greater accuracy. This enables personalized marketing, better customer experience management, and informed strategic decision-making, ultimately driving long-term profitability and customer loyalty.
 
-Furthermore, data-driven CLV prediction empowers marketing teams to shift from reactive to proactive strategies. For instance, identifying at-risk customers early allows timely interventions such as targeted offers or loyalty rewards—to extend their lifetime value. In essence, CLV prediction is not just a number it’s a roadmap to sustainable business growth.
+Furthermore, data-driven CLV prediction empowers marketing teams to shift from reactive to proactive strategies. For instance, identifying at-risk customers early allows timely interventions such as targeted offers or loyalty rewards to extend their lifetime value. In essence, CLV prediction is not just a number it’s a roadmap to sustainable business growth.
 
 ### Problem Statement
 
